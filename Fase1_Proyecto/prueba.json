@@ -1,0 +1,31 @@
+{
+    "usuarios": [
+        {"nick":"Candy68","password":"pass1","monedas":10000,"edad":20},
+        {"nick":"Abejorro bzzbzz","password":"pass2","monedas":0,"edad":25},
+        {"nick":"Abejita bzzbzz","password":"pass3","monedas":0,"edad":30},
+        {"nick":"Tolego","password":"pass4","monedas":0,"edad":45},
+        {"nick":"Sebrix","password":"pass5","monedas":0,"edad":16},
+        {"nick":"xXBlackFaceXx","password":"pass6","monedas":0,"edad":15},
+        {"nick":"Ruink123","password":"pass7","monedas":0,"edad":18}
+    ],
+
+    "articulos": [
+        {"id":1,"categoria":"epico","precio":1250,"nombre":"death reaper", "src":"pene.png"},
+        {"id":2,"categoria":"legendario","precio":700,"nombre":"anal fuck 1", "src":"XD1.png"},
+        {"id":3,"categoria":"legendario","precio":500,"nombre":"anal fuck 2", "src":"XD2.png"},
+        {"id":4,"categoria":"normal","precio":50,"nombre":"anal fuck 3", "src":"XD3.png"},
+        {"id":5,"categoria":"normal","precio":100,"nombre":"anal fuck 4", "src":"XD4.png"},
+        {"id":6,"categoria":"epico","precio":1275,"nombre":"anal fuck 5", "src":"XD5.png"},
+        {"id":7,"categoria":"legendario","precio":900,"nombre":"anal fuck 6", "src":"XD6.png"}
+    ],
+
+    "tutorial": {
+        "ancho": 10,
+        "alto": 30,
+        "movimientos":[
+            { "x": 1, "y": 15 },
+            { "x": 2, "y": 20 },
+            { "x": 3, "y": 25 }
+        ]
+    }
+}
