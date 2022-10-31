@@ -1,0 +1,23 @@
+digraph example {
+
+node [shape=plaintext]
+rankdir=TB
+
+B [
+label=<
+  <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0">
+ 
+   <TR PORT="header">
+    <TD BGCOLOR="#d23939" COLSPAN="3">HASH</TD>
+   </TR>
+   
+   <TR>
+    <TD BGCOLOR="#ff6363">indice</TD> <TD BGCOLOR="#ff6363">id</TD><TD BGCOLOR="#ff6363">nombre</TD>
+   </TR>
+<TR><TD PORT="1">2</TD><TD>2</TD><TD>j</TD></TR>
+<TR><TD PORT="1">3</TD><TD>3</TD><TD>h</TD></TR>
+<TR><TD PORT="1">4</TD><TD>3</TD><TD>h</TD></TR>
+</TABLE>
+>];
+
+}
